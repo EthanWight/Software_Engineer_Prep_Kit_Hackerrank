@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b4695c8-3cb4-4dd9-9a28-d4497c338b3e" name="Changes" comment="Subarrays with Given Sum and Bounded Maximum">
+    <list default="true" id="6b4695c8-3cb4-4dd9-9a28-d4497c338b3e" name="Changes" comment="Count Subarrays with Sum and Max at Most">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Arrays and Basic Problem Solving.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays and Basic Problem Solving.ipynb" afterDir="false" />
     </list>
@@ -99,13 +99,22 @@
       <option name="project" value="LOCAL" />
       <updated>1759264912222</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Count Subarrays with Sum and Max at Most">
+      <option name="closed" value="true" />
+      <created>1759266381775</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759266381775</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup for HackerRank SWE Prep Kit" />
     <MESSAGE value="Merge High Definition Intervals Solution" />
     <MESSAGE value="Subarrays with Given Sum and Bounded Maximum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subarrays with Given Sum and Bounded Maximum" />
+    <MESSAGE value="Count Subarrays with Sum and Max at Most" />
+    <option name="LAST_COMMIT_MESSAGE" value="Count Subarrays with Sum and Max at Most" />
   </component>
 </project>
